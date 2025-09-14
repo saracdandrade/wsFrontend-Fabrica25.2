@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.header-background {
+  background-image: url('/img_pokemon2.jpg');
+  background-size: contain;
+  background-repeat: repeat-x;
+  background-position: center;
+}
