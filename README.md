@@ -2,6 +2,8 @@
 
 [![Deploy com Vercel](https://vercel.com/button)]([https://ws-frontend-fabrica25-2-xyin.vercel.app/])
 
+# https://ws-frontend-fabrica25-2-xyin.vercel.app/
+
 Este projeto é uma aplicação desenvolvida em **Next.js** que consome a [PokéAPI](https://pokeapi.co/) para exibir uma lista de Pokémons. O usuário pode buscar, visualizar detalhes e salvar seus **Pokémons favoritos** no navegador (via `localStorage`).
 
 
